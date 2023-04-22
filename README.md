@@ -9,9 +9,11 @@
 * 💬 Ask me about anything Python
 * 📫 How to reach me: [email me](mailto:emmanuelakins908@gmail.com)
 * ❤️ I love learning
-* ⚡ Fun fact: 🤨
+* ⚡ Fun fact: 
 
-
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api"/>
+</p>
 
 ## Badges
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
