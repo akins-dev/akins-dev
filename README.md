@@ -16,6 +16,6 @@
 
 
 
-## Badges I collected
+## Badges
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
