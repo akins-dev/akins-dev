@@ -1,6 +1,6 @@
 <h2 align="center">Hello 👋, Welcome to my repository</h2>
 
-<h3>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</h3>
+<p>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</p>
 
 - 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
 - 🌱 I’m currently **exploring the world of Python**👨‍💻
