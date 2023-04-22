@@ -1,16 +1,23 @@
-### Hi there 👋
+## Welcome to my repository👋
 
-<!--
-**akins-dev/akins-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Akinbobola Emmanuel** and I am all about making the world a better place with my skills.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)😎
+- 🌱 I’m currently **exploring the world of Python**👨‍💻
+- 💬 Ask me about **Python**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: 🤨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Social
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
+
+<p><img align="center" src="https://github-readme-streak-stats
+herokuapp.com/?user=akins-dev&" alt="akins-dev" /></p>
+
+
+## Badges I collected
+
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
