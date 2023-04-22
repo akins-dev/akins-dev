@@ -1,8 +1,8 @@
-## Welcome to my repository👋
+<h2 align="center">Hello 👋, Welcome to my repository</h2>
 
-My name is **Akinbobola Emmanuel** and I am all about making the world a better place with my skills.
+<h3>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</h3>
 
-- 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)😎
+- 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
 - 🌱 I’m currently **exploring the world of Python**👨‍💻
 - 💬 Ask me about **Python**
 - 😄 Pronouns: **He/Him**
@@ -14,8 +14,6 @@ My name is **Akinbobola Emmanuel** and I am all about making the world a better 
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
 
-<p><img align="center" src="https://github-readme-streak-stats
-herokuapp.com/?user=akins-dev&" alt="akins-dev" /></p>
 
 
 ## Badges I collected
