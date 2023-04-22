@@ -11,10 +11,6 @@
 * ❤️ I love learning
 * ⚡ Fun fact: 🤨
 
-## Social
-
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
 
 
 ## Badges
@@ -28,3 +24,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact&theme=highcontrast"/>
 
+## Social
+
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
+[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
