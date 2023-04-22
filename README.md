@@ -2,12 +2,14 @@
 
 <p>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</p>
 
-- 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
-- 🌱 I’m currently **exploring the world of Python**👨‍💻
-- 💬 Ask me about **Python**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: 🤨
-
+* 👂 My name is Akinbobola Emmanuel
+* 👩 Pronouns: He/Him
+* 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
+* 🌱 I’m currently learning Python
+* 💬 Ask me about anything Python
+* 📫 How to reach me: [email me](mailto:emmanuelakins908@gmail.com)
+* ❤️ I love learning
+* ⚡ Fun fact: 🤨
 
 ## Social
 
@@ -20,3 +22,4 @@
 ## Badges
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
+
