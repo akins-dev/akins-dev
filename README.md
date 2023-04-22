@@ -24,7 +24,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact&theme=highcontrast"/>
 
-## Social
 
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
-[<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
+[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=akins-dev&row=1)](https://github.com/akins-dev/github-profile-trophy)
+
+## Social
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akins-dev/)[![](https://img.shields.io/badge/Twitter-12345?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/akins_dev)
