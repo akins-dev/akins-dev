@@ -7,7 +7,7 @@
 * 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
 * 🌱 I’m currently learning Python
 * 💬 Ask me about anything Python
-* 📫 How to reach me: [email me](mailto:emmanuelakins908@gmail.com)
+* 📫 How to reach me: [emmanuelakins908@gmail.com](mailto:emmanuelakins908@gmail.com)
 * ❤️ I love learning
 
 ## Badges
