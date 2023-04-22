@@ -28,7 +28,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact&theme=highcontrast"/>
 </p>
 
-[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=akins-dev&row=1)](https://github.com/akins-dev/github-profile-trophy)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=akins-dev&row=1"/>
+</p>
+
 
 
 <p align="center">
