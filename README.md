@@ -14,7 +14,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg' alt='Akinbobola Emmanuel on Twitter' height='40'>](https://twitter.com/akins_dev)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg' alt='Akinbobola Emmanuel on LinkedIn' height='40'>](https://www.linkedin.com/in/akins-dev/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akins-dev)](https://git.io/streak-stats)
+<p><img align="center" src="https://streak-stats.demolab.com/?user=akins-dev" alt="elcharitas" /></p>
 
 ## Badges
 
