@@ -19,6 +19,10 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=akins-dev&theme=highcontrast)](https://git.io/streak-stats)
 
+<img src="https://github-readme-stats.vercel.app/api?username=akins-dev&show_icons=true&theme=highcontrast"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact&theme=highcontrast"/>
+
 ## Badges
 
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
