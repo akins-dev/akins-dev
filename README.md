@@ -18,6 +18,7 @@
 ## Badges
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=emmanuel04)](https://holopin.io/@emmanuel04)
 
+## Stats
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=akins-dev&theme=highcontrast"/>
 </p>
