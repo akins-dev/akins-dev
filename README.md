@@ -15,15 +15,15 @@
 
 ## Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akins-dev&theme=highcontrast"/>
+<img src="https://streak-stats.demolab.com?user=akins-dev"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akins-dev&show_icons=true&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akins-dev&show_icons=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact&theme=highcontrast"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=akins-dev&layout=compact"/>
 </p>
 
 <p align="center">
