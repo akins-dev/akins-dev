@@ -15,7 +15,7 @@
 
 ## Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=akins-dev"/>
+<img src="https://streak-stats.demolab.com?user=akins-dev&theme=highcontrast"/>
 </p>
 
 <p align="center">
