@@ -5,7 +5,7 @@
 * 👂 My name is Akinbobola Emmanuel
 * 👩 Pronouns: He/Him
 * 🔭 I’m currently working on [Pro Learn](https://prolearn.onrender.com)
-* 🌱 I’m currently learning Python
+* 🌱 I’m currently learning React
 * 💬 Ask me about anything Python
 * 📫 How to reach me: [emmanuelakins908@gmail.com](mailto:emmanuelakins908@gmail.com)
 * ❤️ I love learning
