@@ -1,6 +1,6 @@
 <h2 align="center">Hello 👋, welcome to my repository</h2>
 
-<p>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</p>
+<p align="center" >I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=akins-dev&label=Total%20Profile%20Views&color=800080&style=flat" alt="akins-dev" /> </p>
 
 
@@ -40,4 +40,4 @@
 </p>
         
 ## Social
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akins-dev/)[![](https://img.shields.io/badge/Twitter-12345?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/akins_dev)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akins-dev/)[![](https://img.shields.io/badge/Twitter-12345?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/akins__dev)
