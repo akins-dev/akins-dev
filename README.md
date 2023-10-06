@@ -1,6 +1,9 @@
 <h2 align="center">Hello 👋, welcome to my repository</h2>
 
 <p>I am <b>Akinbobola Emmanuel</b> and I'm all about making the world a better place with my skills.</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akins-dev&label=Total%20Profile%20Views&color=800080&style=flat" alt="akins-dev" /> </p>
+
+
 
 * 👂 My name is Akinbobola Emmanuel
 * 👩 Pronouns: He/Him
